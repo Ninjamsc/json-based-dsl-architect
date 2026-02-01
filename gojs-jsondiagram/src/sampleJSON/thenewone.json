@@ -1,0 +1,11 @@
+{
+  "berry": {
+    "name": "lemon"
+  },
+  "apple": {
+    "name": "sweet"
+  },
+  "wine": {
+    "name": "red"
+  }
+}
